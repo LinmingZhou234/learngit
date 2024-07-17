@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git tracks changes of files1.
 Git tracks changes of files1.
 Creating a new branch is quick AND simple.
-
+and merge
